@@ -1,7 +1,7 @@
 Metadata-Version: 1.0
 Name: CaesarCipher
 Version: 0.1
-Summary: ROT13
+Summary: ROT-n encrypt and decrypt
 Home-page: https://github.com/andersongomes001/CaesarCipher
 Author: Anderson Gomes
 Author-email: comprasgomes@hotmail.com

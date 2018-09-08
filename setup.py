@@ -6,6 +6,6 @@ setup(name='CaesarCipher',
       url='https://github.com/andersongomes001/CaesarCipher',
       author='Anderson Gomes',
       author_email='comprasgomes@hotmail.com',
-      license='MIT',
+      license='GNU GPL v3',
       packages=['CaesarCipher'],
       zip_safe=False)
