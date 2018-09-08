@@ -1,8 +1,0 @@
-setup.py
-CaesarCipher/__init__.py
-CaesarCipher/model.py
-CaesarCipher.egg-info/PKG-INFO
-CaesarCipher.egg-info/SOURCES.txt
-CaesarCipher.egg-info/dependency_links.txt
-CaesarCipher.egg-info/not-zip-safe
-CaesarCipher.egg-info/top_level.txt

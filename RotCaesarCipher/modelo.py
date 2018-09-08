@@ -14,3 +14,5 @@ def D(k,c):
         return c
     c = alfabeto.index(str(c).lower())
     return alfabeto[(c - k) % 26]
+
+
